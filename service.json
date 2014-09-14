@@ -1,5 +1,8 @@
 {
-    "seiga": true,
-    "tinami": true,
-    "pixiv": true
+    "is_success": true,
+    "service_status": {
+        "seiga": true,
+        "tinami": true,
+        "pixiv": true
+    }
 }
