@@ -1,7 +1,7 @@
 {
     "is_success": true,
     "service_status": {
-        "seiga": true,
+        "seiga": false,
         "tinami": true,
         "pixiv": true
     }
