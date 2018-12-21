@@ -1,0 +1,6 @@
+{
+  "android_is_available": true,
+  "ios_is_available": true,
+  "android_min_version": "2.0.0",
+  "ios_min_version": "1.0.0"
+}
