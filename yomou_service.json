@@ -1,6 +1,6 @@
 {
   "is_android_available": true,
   "is_ios_available": true,
-  "min_android_version": "3.0.0",
+  "min_android_version": "2.0.0",
   "min_ios_version": "1.0.0"
 }
